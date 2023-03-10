@@ -1,2 +1,2 @@
 # My-SQL-Projects
-This is form my Bootcamp Projects
+This is for my Bootcamp Projects
